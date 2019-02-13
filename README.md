@@ -76,7 +76,7 @@ The easiest way to configure the DreamFactory application is to use docker-compo
 
 ## 1) Clone the df-docker repo
 `cd ~/repos` (or wherever you want the clone of the repo to be)  
-`git clone https://github.com/dreamfactorysoftware/df-docker.git`  
+`git clone https://github.com/hassandg/df-docker.git`  
 `cd df-docker`
 
 ## 2) Rename `docker-compose.yml-load-balance` to `docker-compose.yml`. Recommend backing up original `docker-compose.yml` first.
